@@ -16,7 +16,7 @@ from tcn import TemporalConvNet
 from utils.tools import Timer
 
 # ----------------------- what you should change ---------------------------
-CUDA_ID = '3'
+CUDA_ID = '0'
 PROJECT_DIR = '/home/huyupeng/hdd/release/'
 DATASET_DIR_ACTIVITYNET = f'/home/huyupeng/hdd/dataset/activitynet/'
 utils.tools.setup_seed(0)
