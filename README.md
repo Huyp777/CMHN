@@ -8,5 +8,5 @@ Put simply, our proposed model jointly considers the discriminative feature lear
 Moreover, we conduct extensive experiments on two public datasets ActivityNet Captions and TACoS. The experimental results show that our proposed model is more effective, efﬁcient and scalable than the state-of-the-art models.<br>
 The introduction of CMHN in details will be given in the form of an authorized patent and a published paper within half a year.<br>
 An illustration of the cross-modal moment retrieval and the framework of CMHN are shown in the following two figures.
-![](https://github.com/Huyp777/MPLRForSub/raw/master/1.png)<br>
-![](https://github.com/Huyp777/MPLRForSub/raw/master/2.png)
+![](https://github.com/Huyp777/CMHN/raw/master/example1.png)<br>
+![](https://github.com/Huyp777/CMHN/raw/master/modelforgithub.png)
